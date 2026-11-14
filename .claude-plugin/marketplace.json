@@ -1,0 +1,18 @@
+{
+  "name": "ai-hq-plugin",
+  "description": "Claude Code 비서 플러그인 ai-hq 하나를 싣는 장터",
+  "owner": {
+    "name": "minsooparkk"
+  },
+  "plugins": [
+    {
+      "name": "ai-hq",
+      "source": "./plugins/ai-hq",
+      "description": "Claude Code를 내 일을 모으고 정리하고 승인받아 처리하는 비서로 쓰게 하는 규칙과 스킬 묶음",
+      "author": {
+        "name": "minsooparkk"
+      },
+      "license": "MIT"
+    }
+  ]
+}
