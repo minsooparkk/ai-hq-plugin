@@ -471,7 +471,7 @@ claude plugin install ai-hq@ai-hq-plugin
 
 ### 제1조(판)
 
-이 문서는 ai-hq 0.1.0 판에 맞춰 썼다.
+이 문서는 ai-hq 0.2.0 판에 맞춰 썼다.
 
 ### 제2조(한계)
 

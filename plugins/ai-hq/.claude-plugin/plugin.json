@@ -1,6 +1,6 @@
 {
   "name": "ai-hq",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Claude Code를 내 일을 모으고 정리하고 승인받아 처리하는 비서로 쓰게 하는 규칙과 스킬 묶음",
   "author": {
     "name": "minsooparkk"
